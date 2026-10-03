@@ -2,13 +2,14 @@
 
 > **Read-only archive of released versions of justoverclock/feautured-discussions-widget.** Not for installation: use [Packagist](https://packagist.org/packages/justoverclock/feautured-discussions-widget) or the [upstream repository](https://github.com/justoverclockl/feautured-discussions-widget).
 
-**0** versions archived · Latest: [`0.1.1`](https://github.com/flarchive/justoverclock-feautured-discussions-widget/tree/archive/v0.1.1) · License: `MIT` · Flarum: `^1.0.0`
+**2** versions archived · Latest: [`0.1.1`](https://github.com/flarchive/justoverclock-feautured-discussions-widget/tree/archive/v0.1.1) · License: `MIT` · Flarum: `^1.0.0`
 
 ## Archived Versions
 
 | Version | Released | Flarum | Source |
 |---|---|---|---|
-| — | — | — | — |
+| `0.1.0` | 2021-10-04 | `^1.0.0` | [Browse](https://github.com/flarchive/justoverclock-feautured-discussions-widget/tree/archive/v0.1.0) |
+| `0.1.1` | 2021-10-04 | `^1.0.0` | [Browse](https://github.com/flarchive/justoverclock-feautured-discussions-widget/tree/archive/v0.1.1) |
 
 Catalog entry: [packages/justoverclock-feautured-discussions-widget.json](https://github.com/flarchive/archive-index/blob/main/packages/justoverclock-feautured-discussions-widget.json)
 
